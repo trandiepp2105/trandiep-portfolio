@@ -581,6 +581,13 @@ a.intro-detail:hover {
   transition: background 160ms ease, border-color 160ms ease;
 }
 
+.github-mark {
+  display: block;
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
 .icon-link:hover {
   border-color: var(--color-accent);
   background: var(--color-accent-soft);
